@@ -88,7 +88,7 @@ Identifica estacionalidad, picos de venta y
 caídas en períodos específicos.
 
 ### Página 3 — Comportamiento de Cliente
-Segmentación RFM, CLV por segmento y análisis
+Segmentación RFM por segmento y análisis
 de retención. Responde quiénes son los mejores
 clientes y cuáles están en riesgo de abandono.
 
