@@ -1,0 +1,141 @@
+product_id,product_name,category,avg_price
+1,Air Freshener,Automotive,73.61
+2,Car Phone Mount,Automotive,73.82
+3,Car Vacuum Cleaner,Automotive,71.15
+4,Dashcam 4K,Automotive,68.25
+5,Jump Starter Pack,Automotive,78.06
+6,Seat Covers Universal,Automotive,65.08
+7,Steering Wheel Cover,Automotive,64.02
+8,Tire Inflator,Automotive,66.38
+9,USB Car Charger,Automotive,70.09
+10,Windshield Cleaner,Automotive,71.74
+11,Electric Toothbrush,Beauty & Personal Care,32.39
+12,Face Wash Gel,Beauty & Personal Care,31.36
+13,Hair Dryer Pro,Beauty & Personal Care,33.95
+14,Hyaluronic Acid Moisturizer,Beauty & Personal Care,31.92
+15,Lip Balm Set,Beauty & Personal Care,30.45
+16,Nail Kit,Beauty & Personal Care,30.44
+17,Perfume Floral,Beauty & Personal Care,31.73
+18,Shampoo Argan Oil,Beauty & Personal Care,32.9
+19,Sunscreen SPF50,Beauty & Personal Care,29.83
+20,Vitamin C Serum,Beauty & Personal Care,32.26
+21,Atomic Habits,Books,25.25
+22,Clean Code,Books,26.19
+23,Deep Work,Books,26.02
+24,Python Crash Course,Books,25.1
+25,System Design Interview,Books,27.19
+26,The Alchemist,Books,25.58
+27,The Lean Startup,Books,26.26
+28,The Pragmatic Programmer,Books,25.02
+29,Thinking Fast and Slow,Books,27.19
+30,Zero to One,Books,24.92
+31,Casual Sneakers,Clothing & Apparel,62.08
+32,Classic White Tee,Clothing & Apparel,61.24
+33,Formal Dress Shirt,Clothing & Apparel,63.48
+34,Hoodie Pullover,Clothing & Apparel,58.39
+35,Leather Belt,Clothing & Apparel,62.23
+36,Running Shoes,Clothing & Apparel,59.41
+37,Slim Fit Jeans,Clothing & Apparel,60.28
+38,Sports Socks 6-Pack,Clothing & Apparel,60.77
+39,Winter Jacket,Clothing & Apparel,59.53
+40,Yoga Pants,Clothing & Apparel,59.74
+41,Bluetooth Speaker,Electronics,140.99
+42,Gaming Mouse RGB,Electronics,138.95
+43,LED Desk Lamp,Electronics,135.44
+44,Mechanical Keyboard,Electronics,134.71
+45,Portable Charger 20000mAh,Electronics,141.33
+46,Smart Plug 4-Pack,Electronics,135.76
+47,Smart Watch Series 5,Electronics,135.64
+48,USB-C Hub,Electronics,143.34
+49,Webcam 4K,Electronics,138.99
+50,Wireless Earbuds Pro,Electronics,139.27
+51,Coffee Beans 1kg,Food & Grocery,20.88
+52,Dark Chocolate 85%,Food & Grocery,20.34
+53,Energy Bars 12-Pack,Food & Grocery,20.25
+54,Honey Raw Organic,Food & Grocery,20.0
+55,Matcha Powder,Food & Grocery,22.11
+56,Mixed Nuts 500g,Food & Grocery,20.45
+57,Olive Oil Extra Virgin,Food & Grocery,20.69
+58,Organic Green Tea,Food & Grocery,20.96
+59,Protein Powder Vanilla,Food & Grocery,21.07
+60,Quinoa 2kg,Food & Grocery,21.1
+61,Ashwagandha Extract,Health & Wellness,25.04
+62,CBD Gummies,Health & Wellness,26.18
+63,Collagen Peptides,Health & Wellness,26.53
+64,Magnesium Glycinate,Health & Wellness,25.46
+65,Melatonin 5mg,Health & Wellness,25.61
+66,Multivitamin Daily,Health & Wellness,25.07
+67,Omega-3 Fish Oil,Health & Wellness,26.22
+68,Probiotics 50B,Health & Wellness,26.68
+69,Vitamin D3 5000IU,Health & Wellness,25.1
+70,Zinc Lozenges,Health & Wellness,25.02
+71,Air Fryer 5L,Home & Kitchen,78.09
+72,Blender Pro,Home & Kitchen,78.14
+73,Coffee Maker Drip,Home & Kitchen,81.1
+74,Electric Kettle,Home & Kitchen,78.13
+75,Knife Set 8pc,Home & Kitchen,80.13
+76,Mattress Topper,Home & Kitchen,77.12
+77,Non-stick Pan,Home & Kitchen,75.95
+78,Shower Curtain,Home & Kitchen,80.23
+79,Storage Containers,Home & Kitchen,78.38
+80,Wall Clock Modern,Home & Kitchen,77.29
+81,Charm Bracelet,Jewelry & Accessories,77.76
+82,Leather Wallet,Jewelry & Accessories,73.68
+83,Minimalist Watch,Jewelry & Accessories,79.04
+84,Phone Case Designer,Jewelry & Accessories,81.59
+85,Ring Set 5pc,Jewelry & Accessories,81.66
+86,Silk Scarf,Jewelry & Accessories,78.11
+87,Sterling Silver Necklace,Jewelry & Accessories,76.58
+88,Stud Earrings Gold,Jewelry & Accessories,83.46
+89,Sunglasses UV400,Jewelry & Accessories,78.81
+90,Tote Bag Canvas,Jewelry & Accessories,90.1
+91,Desk Organizer,Office Supplies,93.47
+92,Ergonomic Chair,Office Supplies,105.39
+93,File Folders 50pk,Office Supplies,97.49
+94,Notebook A5,Office Supplies,96.32
+95,Pen Set Premium,Office Supplies,83.01
+96,Standing Desk Converter,Office Supplies,110.32
+97,Stapler Heavy Duty,Office Supplies,92.04
+98,Sticky Notes Bulk,Office Supplies,84.7
+99,Whiteboard Markers,Office Supplies,98.84
+100,Wireless Mouse,Office Supplies,91.25
+101,Bird Cage Deluxe,Pet Supplies,33.47
+102,Cat Litter Clumping,Pet Supplies,32.22
+103,Chew Toy Set,Pet Supplies,32.42
+104,Dog Food Premium 5kg,Pet Supplies,34.38
+105,Dog Leash Retractable,Pet Supplies,30.25
+106,Fish Tank 10L,Pet Supplies,32.95
+107,Flea Collar,Pet Supplies,32.14
+108,Interactive Cat Toy,Pet Supplies,30.37
+109,Pet Carrier Soft,Pet Supplies,33.27
+110,Pet Shampoo Natural,Pet Supplies,32.46
+111,Cycling Gloves,Sports & Outdoors,45.05
+112,Dumbbell Set 20kg,Sports & Outdoors,51.72
+113,Foam Roller,Sports & Outdoors,51.35
+114,Hiking Backpack,Sports & Outdoors,48.65
+115,Jump Rope Speed,Sports & Outdoors,49.28
+116,Pull-up Bar,Sports & Outdoors,47.29
+117,Resistance Bands Set,Sports & Outdoors,44.44
+118,Tennis Racket,Sports & Outdoors,50.57
+119,Water Bottle 1L,Sports & Outdoors,45.02
+120,Yoga Mat Non-slip,Sports & Outdoors,47.63
+121,Action Figure Set,Toys & Games,41.3
+122,Art Supply Kit,Toys & Games,39.59
+123,Board Game Strategy,Toys & Games,37.52
+124,Card Game Party,Toys & Games,43.62
+125,Educational Tablet,Toys & Games,43.32
+126,LEGO City Set,Toys & Games,41.22
+127,Outdoor Frisbee,Toys & Games,42.44
+128,Puzzle 1000pc,Toys & Games,40.54
+129,Remote Control Car,Toys & Games,42.06
+130,Stuffed Animal Bear,Toys & Games,41.19
+131,Compression Socks,Travel & Luggage,104.24
+132,Eye Mask Sleep,Travel & Luggage,98.38
+133,"Hardshell Luggage 24""",Travel & Luggage,103.55
+134,Money Belt,Travel & Luggage,100.35
+135,Packing Cubes 6-Set,Travel & Luggage,88.31
+136,Passport Holder RFID,Travel & Luggage,89.34
+137,Portable Scale,Travel & Luggage,92.78
+138,Toiletry Bag,Travel & Luggage,101.59
+139,Travel Adapter Universal,Travel & Luggage,88.5
+140,Travel Pillow Memory Foam,Travel & Luggage,103.51
