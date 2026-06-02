@@ -83,7 +83,7 @@ ticket promedio y clientes activos. Diseñada para
 decisiones rápidas de alto nivel.
 
 ### Página 2 — Tendencias de Tiempo
-Evolución mensual del revenue con comparativa YoY.
+Evolución mensual del revenue con comparativa MoM.
 Identifica estacionalidad, picos de venta y
 caídas en períodos específicos.
 
